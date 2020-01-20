@@ -5,7 +5,7 @@
                  "mys3bucket": {
                           "Type" : "AWS::S3::Bucket",
                           "Properties" : {
-                                           "BucketName" : "testbucket1"
+                                           "BucketName" : "testbucket1icds200120"
 
                                           }
                                 }
